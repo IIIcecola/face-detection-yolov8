@@ -1,3 +1,6 @@
+## more acurate model
+https://github.com/Yusepp/YOLOv8-Face
+
 # Face Detection with YOLOv8
 
 ### Steps to run Code
